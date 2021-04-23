@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Perro
+comment0.text=\r\n\ Esta\ es\ una\ clase\ sencilla\ de\ un\ perro.\r\n\ \r\n\ @author\ (Jose\ Lisandro\ Vargas\ Mu\u00F1oz)\ \r\n\ @version\ (14/04/2021)\r\n
+comment1.params=nombre\ edad\ color
+comment1.target=Perro(java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ Asignaremos\ el\ \r\n\ nombre\r\n\ edad\r\n\ y\ color\ \r\n\ del\ perro\r\n
+comment10.params=
+comment10.target=java.lang.String\ getColor()
+comment2.params=
+comment2.target=java.lang.String\ emitirLadrido()
+comment3.params=
+comment3.target=void\ dormirse()
+comment4.params=
+comment4.target=void\ despertarse()
+comment5.params=
+comment5.target=void\ jugar()
+comment6.params=
+comment6.target=int\ mostrarNivelFelicidad()
+comment7.params=
+comment7.target=java.lang.String\ getNombre()
+comment8.params=nuevoNombre
+comment8.target=void\ setNombre(java.lang.String)
+comment9.params=
+comment9.target=double\ getEdad()
+numComments=11
